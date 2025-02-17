@@ -249,7 +249,7 @@ span {
     width: 350px;
     height: 400px;
     margin: 20px;
-    line-height: 17px;
+    line-height: 19px;
     flex: 1 1 30rem;
     background: var(--snd-bg-color);
     padding: 6rem 2rem 6rem;
@@ -265,7 +265,7 @@ span {
 }
 
 .service-box i {
-    font-size: 7rem;
+    font-size: 8rem;
     color: var(--main-color);
 }
 
@@ -275,7 +275,7 @@ span {
 
 .service-box p {
     margin: 1rem 0 3rem;
-    font-size: 1.35rem;
+    font-size: 1.65rem;
 }
 
 /* Contact Section Code */
